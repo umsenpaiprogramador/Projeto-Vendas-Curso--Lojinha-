@@ -11,8 +11,5 @@
  -Limpa Formulário
  -Gera Relatório (Jaspersoft Studio)
  
- -Métodos
- -Classes
- -Tratamento de erros com try catch
- -Método DAO
+
  
